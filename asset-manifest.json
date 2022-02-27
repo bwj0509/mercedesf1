@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.44d254e0.css",
+    "main.js": "/static/js/main.0d6203cb.js",
+    "static/js/787.ec142ee0.chunk.js": "/static/js/787.ec142ee0.chunk.js",
+    "static/media/amg.png": "/static/media/amg.6416b62a254d9144c8d9.png",
+    "index.html": "/index.html",
+    "main.44d254e0.css.map": "/static/css/main.44d254e0.css.map",
+    "main.0d6203cb.js.map": "/static/js/main.0d6203cb.js.map",
+    "787.ec142ee0.chunk.js.map": "/static/js/787.ec142ee0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44d254e0.css",
+    "static/js/main.0d6203cb.js"
+  ]
+}
